@@ -1,6 +1,6 @@
 body{
-font-family: "platypi" serif;
-background-image: linear-gradient(45deg,  #FFF, black);
+font-family: "platypi", serif;
+background-image: linear-gradient(45deg,  #006400, rgb(0, 0, 0));
 
 }
 .telalogin{
@@ -21,6 +21,7 @@ font-size: 15px;
 
 }
 button{
+   
 background-color: dodgerblue;
 border: none;
 padding: 15px;
@@ -35,5 +36,14 @@ button-hover
 
 {
 
-    background-color: deepskyblue;
+    background-color: rgb(158, 215, 235);
+}
+.recuperar_senha
+{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   cursor: pointer;
+    border: 1px solid black;
+padding: 2px;
+    background: white;
+
 }
